@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+    url: https://author-p133911-e1313554.adobeaemcloud.com/bin/franklin.delivery/sanjanaJat98/coworker-form/main
+    type: "markup"
+    suffix: ".html"
